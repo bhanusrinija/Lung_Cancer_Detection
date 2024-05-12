@@ -29,18 +29,6 @@ Upload Images: Click on the "Check for Lung Cancer" button in the GUI to select 
 
 View Results: The system will provide the classification results, indicating whether lung cancer is present and, if so, the type of cancer detected.
 
-Directory Structure
-lung-cancer-detection/
-│
-├── data/
-│   ├── train/
-│   └── test/
-├── app.py
-├── inference.py
-├── model_training.py
-├── requirements.txt
-└── README.md
-
 Credits
 Developed by Bhanu Srinija Pasupuleti
 Dataset: Chest CT-Scan images Dataset
