@@ -37,10 +37,10 @@ Lung Cancer Detection and Classification is a deep learning-based project aimed 
 lung-cancer-detection/
 │
 ├── data/
-│ ├── train/
-│ └── test/
+│   ├── train/
+│   └── test/
 ├── models/
-│ └── inception_chest.h5
+│   └── inception_chest.h5
 ├── app.py
 ├── inference.py
 ├── model_training.py
@@ -59,5 +59,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
 - Developed by Bhanu Srinija Pasupuleti
-- Dataset: [Mohamed Hany](https://www.kaggle.com/mohamedhanyyy)
+- Dataset: Chest CT-Scan images Dataset
 - Trained Model: inception_chest.h5
