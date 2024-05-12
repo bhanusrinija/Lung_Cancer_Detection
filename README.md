@@ -34,6 +34,7 @@ Lung Cancer Detection and Classification is a deep learning-based project aimed 
 5. **View Results**: The system will provide the classification results, indicating whether lung cancer is present and, if so, the type of cancer detected.
 
 ## Directory Structure
+```
 lung-cancer-detection/
 │
 ├── data/
@@ -46,7 +47,7 @@ lung-cancer-detection/
 ├── model_training.py
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Dataset
 The dataset used in this project is available on Kaggle: [Chest CT-Scan Images Dataset](https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images).
