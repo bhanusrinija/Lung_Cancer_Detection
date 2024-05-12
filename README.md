@@ -40,9 +40,6 @@ lung-cancer-detection/
 ├── model_training.py
 ├── requirements.txt
 └── README.md
-Contribution
-Contributions to the project are welcome! If you have suggestions for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
-
 
 Credits
 Developed by Bhanu Srinija Pasupuleti
